@@ -1,5 +1,5 @@
 # ATMatCreator
-April Tag Mat Creator
+April Tag Mat Creator code written for CMSC828T
 
 ## Pre-requisites
 
