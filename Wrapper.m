@@ -24,7 +24,6 @@ ExtractPNGs;
 
 %% Place Tags on background image
 TagSize = 0.2; % m
-OrgTagSize = 0.2159; % m
 SpaceBetweenTags = 0.2; % m
 GridSize = [6, 6]; % Number of rows, columns
 BgFileName = '../ATMatCreatorData/AA-1.png';

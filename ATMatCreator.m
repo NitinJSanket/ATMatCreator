@@ -1,3 +1,4 @@
+OrgTagSize = 0.2159; % m
 SpaceBetweenTagsPx = floor(DPI*SpaceBetweenTags./OrgTagSize*8.5); % Pixels
 TagSizePx = floor(DPI*TagSize./OrgTagSize*8.5); % Pixels
 
