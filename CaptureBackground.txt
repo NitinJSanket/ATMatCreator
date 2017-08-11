@@ -1,0 +1,13 @@
+1. Go to http://www.chengfolio.com/google_map_customizer#satellitemap
+2. Select Map type to Satellite Map
+3. Zoom to level of detail desired
+4. Install Fireshot plugin on chrome/firefox
+5. Click capture entire page on Fireshot plugin and save as pdf
+
+
+Reference:
+http://www.chengfolio.com/blog/how_to_customize_google_map_and_export_high_quality_images_using_google_map_customizer
+
+
+
+
