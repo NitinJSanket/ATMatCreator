@@ -20,7 +20,7 @@ Reference: [How to export High quality Google Map Images](http://www.chengfolio.
 ## Running ATMatCreator Code
 1. Open Wrapper.m <br>
 
-For the first time running the code
+For the first time running the code:
 - Change `%InstallDeps;` to `InstallDeps`
 - Change `%PS2PDF;` to  `PS2PDF;`
 - Change `ExtractPNGsFlag = 0;` to `ExtractPNGsFlag = 1;`
