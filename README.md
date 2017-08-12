@@ -13,7 +13,7 @@ April Tag Mat Creator code written for CMSC828T
 Reference: [How to export High quality Google Map Images](http://www.chengfolio.com/blog/how_to_customize_google_map_and_export_high_quality_images_using_google_map_customizer)
 
 ### Download AprilTag Library
-1. Download *36h11* Tag family (recommended) from [Umich Repo](https://april.eecs.umich.edu/media/apriltag/tag36h11.tgz)
+1. Download *36h11* Tag family (recommended) from [UMich EECS repository](https://april.eecs.umich.edu/media/apriltag/tag36h11.tgz)
 2. Extract the files from the downloaded `tar`.
 ***
 
