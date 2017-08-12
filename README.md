@@ -3,10 +3,10 @@ April Tag Mat Creator code written for CMSC828T
 
 ## Pre-requisites
 ### Capture Background Image
-1. Install Fireshot plugin on chrome/firefox (you need this to download high res background images)
-2. Go to [Chengfolio](http://www.chengfolio.com/google_map_customizer#satellitemap)
-3. Select Map type to Satellite Map
-4. Zoom to level of detail desired *(Depends on how high you want to fly)*
+1. Install [Fireshot Google Chrome plugin](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en) (recommended) or [Fireshot Firefox plugin](https://addons.mozilla.org/en-US/firefox/addon/fireshot/) *(you need this to download high res background images)*.
+2. Go to [Chengfolio](http://www.chengfolio.com/google_map_customizer#satellitemap).
+3. Select Map type to `Satellite Map`.
+4. Zoom to level of detail desired *(Depends on how high you want to fly)*.
 5. Select the necessary resoolution - 5000x5000 recommended on a 64GB RAM PC. Try the highest resolution for which you don't fail to capture.
 6. Click capture entire page on Fireshot plugin and save as `pdf`.
 
