@@ -7,7 +7,7 @@ April Tag Mat Creator code written for CMSC828T
 2. Go to [Chengfolio](http://www.chengfolio.com/google_map_customizer#satellitemap).
 3. Select Map type to `Satellite Map`.
 4. Zoom to level of detail desired *(Depends on how high you want to fly)*.
-5. Select the necessary resoolution - 5000x5000 recommended on a 64GB RAM PC. Try the highest resolution for which you don't fail to capture.
+5. Select the necessary resolution - 5000x5000 recommended on a 64GB RAM PC. Try the highest resolution for which you don't fail to capture.
 6. Click capture entire page on Fireshot plugin and save as `pdf`.
 
 Reference: [How to export High quality Google Map Images](http://www.chengfolio.com/blog/how_to_customize_google_map_and_export_high_quality_images_using_google_map_customizer)
